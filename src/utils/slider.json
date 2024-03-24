@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chankyapuri",
+    "price": "3.3Cr",
+    "detail": "Post Office Chanakya Puri (Sub Office), South West Delhi, Delhi (DL), India (IN), Pin Code- 110021",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Pandav Nagar",
+    "price": "2Cr",
+    "detail": "Near Parasvnath Metro Mall, New Delhi Central,Pandav Nagar, Delhi (DL), India (IN), Pin Code: 110092",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Saket",
+    "price": "3.5Cr",
+    "detail": "Post Office SAKET SOUTH DELHI (SUB OFFICE), SOUTH DELHI, DELHI (DL), India (IN), Pin Code:- 110017",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Rohini",
+    "price": "1.5Cr",
+    "detail": "Post Office ROHINI SECTOR-7 (SUB OFFICE), NORTH WEST DELHI, DELHI (DL), India (IN), Pin Code:- 110085",
+    "image": "./r5.jpg"
+  },
+  {
+    "name": "Dwarka",
+    "price": "2Cr",
+    "detail": "Post Office DWARKA SEC-6 (SUB OFFICE), SOUTH WEST DELHI, DELHI (DL), India (IN), Pin Code:- 110075",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Vikaspuri",
+    "price": "3.5Cr",
+    "detail": "Post Office VIKAS PURI (SUB OFFICE), WEST DELHI, DELHI (DL), India (IN), Pin Code:- 110018",
+    "image": "./r3.png"
+  }
+]
